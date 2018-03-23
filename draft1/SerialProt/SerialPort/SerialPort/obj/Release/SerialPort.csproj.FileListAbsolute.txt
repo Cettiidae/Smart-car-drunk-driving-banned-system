@@ -1,0 +1,9 @@
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\bin\Release\SerialPort.exe.config
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\bin\Release\SerialPort.exe
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\bin\Release\SerialPort.pdb
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Release\SerialPort.Form1.resources
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Release\SerialPort.Properties.Resources.resources
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Release\SerialPort.csproj.GenerateResource.Cache
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Release\SerialPort.exe
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Release\SerialPort.pdb
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Release\SerialPort.csprojResolveAssemblyReference.cache

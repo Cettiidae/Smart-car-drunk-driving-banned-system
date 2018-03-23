@@ -1,0 +1,15 @@
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+D:\科创资料\比赛\TI杯酒精浓度测量\SerialProt\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+H:\final\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+H:\final\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+H:\final\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\Users\Zhoutaoccu\Desktop\final\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\Zhoutaoccu\Desktop\final\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\Zhoutaoccu\Desktop\final\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
